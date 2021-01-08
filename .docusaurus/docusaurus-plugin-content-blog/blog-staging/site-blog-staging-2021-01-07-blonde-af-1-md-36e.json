@@ -1,6 +1,6 @@
 {
   "permalink": "/blog/advice-corner-choosing-a-law-school",
-  "source": "@site/blog/2021-01-07-blonde-af-1.md",
+  "source": "@site/blog_staging/2021-01-07-blonde-af-1.md",
   "description": "Acceptances",
   "date": "2021-01-07T00:00:00.000Z",
   "tags": [
@@ -15,9 +15,5 @@
   ],
   "title": "Advice Corner: Choosing a law school",
   "readingTime": 7.64,
-  "truncated": true,
-  "nextItem": {
-    "title": "Lots of updates for LSData",
-    "permalink": "/blog/big-update"
-  }
+  "truncated": true
 }

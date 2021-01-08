@@ -60,4 +60,24 @@ module.exports = {
       },
     ],
   ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
+        id: 'second-blog',
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: 'blog-staging',
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: './second-blog',
+      },
+    ],
+  ],
 };

@@ -8,6 +8,31 @@ export default [
   exact: true,
 },
 {
+  path: '/blog-staging',
+  component: ComponentCreator('/blog-staging','f1e'),
+  exact: true,
+},
+{
+  path: '/blog-staging/advice-corner-choosing-a-law-school',
+  component: ComponentCreator('/blog-staging/advice-corner-choosing-a-law-school','0f8'),
+  exact: true,
+},
+{
+  path: '/blog-staging/tags',
+  component: ComponentCreator('/blog-staging/tags','284'),
+  exact: true,
+},
+{
+  path: '/blog-staging/tags/advice-corner',
+  component: ComponentCreator('/blog-staging/tags/advice-corner','fd7'),
+  exact: true,
+},
+{
+  path: '/blog-staging/tags/legally-blonde-af',
+  component: ComponentCreator('/blog-staging/tags/legally-blonde-af','82c'),
+  exact: true,
+},
+{
   path: '/blog/big-update',
   component: ComponentCreator('/blog/big-update','353'),
   exact: true,

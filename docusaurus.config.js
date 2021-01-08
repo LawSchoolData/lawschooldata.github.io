@@ -32,7 +32,7 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} LSData.`,
     },
     googleAnalytics: {
-      trackingID: 'G-GLFHY5FSS9',
+      trackingID: 'UA-132877936-3',
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
     },

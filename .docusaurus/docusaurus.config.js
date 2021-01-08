@@ -38,7 +38,7 @@ export default {
       "links": []
     },
     "googleAnalytics": {
-      "trackingID": "UA-132877936-2",
+      "trackingID": "UA-132877936-3",
       "anonymizeIP": true
     },
     "colorMode": {

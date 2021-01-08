@@ -4,9 +4,16 @@
         <title>LSData Blog</title>
         <link>https://your-docusaurus-test-site.com/blog</link>
         <description>LSData Blog</description>
-        <lastBuildDate>Mon, 04 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Advice Corner: Choosing a law school]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/advice-corner-choosing-a-law-school</link>
+            <guid>advice-corner-choosing-a-law-school</guid>
+            <pubDate>Thu, 07 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Acceptances]]></description>
+        </item>
         <item>
             <title><![CDATA[Lots of updates for LSData]]></title>
             <link>https://your-docusaurus-test-site.com/blog/big-update</link>

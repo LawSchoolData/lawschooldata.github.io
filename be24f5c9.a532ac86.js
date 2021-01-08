@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{99:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog-staging/tags","slug":"legally-blonde-af","name":"legally blonde af","count":1,"permalink":"/blog-staging/tags/legally-blonde-af"}')}}]);

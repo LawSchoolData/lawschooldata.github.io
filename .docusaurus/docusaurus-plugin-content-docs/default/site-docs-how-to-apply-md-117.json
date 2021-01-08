@@ -1,0 +1,16 @@
+{
+  "unversionedId": "how-to-apply",
+  "id": "how-to-apply",
+  "isDocsHomePage": false,
+  "title": "How to go to law school",
+  "description": "1. Study hard and get a good GPA.",
+  "source": "@site/docs/how-to-apply.md",
+  "slug": "/",
+  "permalink": "/",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Terminology and slang",
+    "permalink": "/terminology"
+  }
+}

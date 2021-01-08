@@ -1,0 +1,350 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/home/dinan/IdeaProjects/lsdata_docs/sidebars.js",
+          "docsDirPath": "/home/dinan/IdeaProjects/lsdata_docs/docs",
+          "docsDirPathLocalized": "/home/dinan/IdeaProjects/lsdata_docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "how-to-apply",
+          "sidebars": {
+            "someSidebar": [
+              {
+                "collapsed": false,
+                "type": "category",
+                "label": "Applying to law school",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "how-to-apply"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "terminology"
+                  }
+                ]
+              },
+              {
+                "collapsed": false,
+                "type": "category",
+                "label": "LSData features",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "status-checker"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "applicant-search"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "school-graphs"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lsdata-faq"
+                  }
+                ]
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/applicant-search": "someSidebar",
+            "/": "someSidebar",
+            "/lsdata-faq": "someSidebar",
+            "/school-graphs": "someSidebar",
+            "/status-checker": "someSidebar",
+            "/terminology": "someSidebar"
+          },
+          "docs": [
+            {
+              "unversionedId": "applicant-search",
+              "id": "applicant-search",
+              "isDocsHomePage": false,
+              "title": "Applicant search",
+              "description": "The applicant search allows you to search for applicants that meet certain criteria, e.g. KJD applicants with a GPA between 3.0-3.3 and an LSAT between 160-162.",
+              "source": "@site/docs/applicant-search.md",
+              "slug": "/applicant-search",
+              "permalink": "/applicant-search",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Automated status checker",
+                "permalink": "/status-checker"
+              },
+              "next": {
+                "title": "School graphs",
+                "permalink": "/school-graphs"
+              }
+            },
+            {
+              "unversionedId": "doc1",
+              "id": "doc1",
+              "isDocsHomePage": false,
+              "title": "Style Guide",
+              "description": "You can write content using GitHub-flavored Markdown syntax.",
+              "source": "@site/docs/doc1.md",
+              "slug": "/doc1",
+              "permalink": "/doc1",
+              "version": "current",
+              "sidebar_label": "Style Guide"
+            },
+            {
+              "unversionedId": "doc2",
+              "id": "doc2",
+              "isDocsHomePage": false,
+              "title": "Document Number 2",
+              "description": "This is a link to another document. This is a link to an external page.",
+              "source": "@site/docs/doc2.md",
+              "slug": "/doc2",
+              "permalink": "/doc2",
+              "version": "current"
+            },
+            {
+              "unversionedId": "doc3",
+              "id": "doc3",
+              "isDocsHomePage": false,
+              "title": "This is Document Number 3",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+              "source": "@site/docs/doc3.md",
+              "slug": "/doc3",
+              "permalink": "/doc3",
+              "version": "current"
+            },
+            {
+              "unversionedId": "how-to-apply",
+              "id": "how-to-apply",
+              "isDocsHomePage": false,
+              "title": "How to go to law school",
+              "description": "1. Study hard and get a good GPA.",
+              "source": "@site/docs/how-to-apply.md",
+              "slug": "/",
+              "permalink": "/",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "next": {
+                "title": "Terminology and slang",
+                "permalink": "/terminology"
+              }
+            },
+            {
+              "unversionedId": "lsdata-faq",
+              "id": "lsdata-faq",
+              "isDocsHomePage": false,
+              "title": "Frequently Asked Questions",
+              "description": "Have an unanswered question?",
+              "source": "@site/docs/lsdata-faq.md",
+              "slug": "/lsdata-faq",
+              "permalink": "/lsdata-faq",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "School graphs",
+                "permalink": "/school-graphs"
+              }
+            },
+            {
+              "unversionedId": "mdx",
+              "id": "mdx",
+              "isDocsHomePage": false,
+              "title": "Powered by MDX",
+              "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
+              "source": "@site/docs/mdx.md",
+              "slug": "/mdx",
+              "permalink": "/mdx",
+              "version": "current"
+            },
+            {
+              "unversionedId": "school-graphs",
+              "id": "school-graphs",
+              "isDocsHomePage": false,
+              "title": "School graphs",
+              "description": "The school graphs present easy to understand graphs of acceptance results.",
+              "source": "@site/docs/school-graphs.md",
+              "slug": "/school-graphs",
+              "permalink": "/school-graphs",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Applicant search",
+                "permalink": "/applicant-search"
+              },
+              "next": {
+                "title": "Frequently Asked Questions",
+                "permalink": "/lsdata-faq"
+              }
+            },
+            {
+              "unversionedId": "status-checker",
+              "id": "status-checker",
+              "isDocsHomePage": false,
+              "title": "Automated status checker",
+              "description": "Automatically checks all of your app statuses with the tap of a button. Saves you the effort of manually logging in to 20 different status checker websites.",
+              "source": "@site/docs/status-checker.md",
+              "slug": "/status-checker",
+              "permalink": "/status-checker",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Terminology and slang",
+                "permalink": "/terminology"
+              },
+              "next": {
+                "title": "Applicant search",
+                "permalink": "/applicant-search"
+              }
+            },
+            {
+              "unversionedId": "terminology",
+              "id": "terminology",
+              "isDocsHomePage": false,
+              "title": "Terminology and slang",
+              "description": "Commonly used slang and terminology used by law school applicants. Missing a term? Have a question/suggestion?",
+              "source": "@site/docs/terminology.md",
+              "slug": "/terminology",
+              "permalink": "/terminology",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "How to go to law school",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Automated status checker",
+                "permalink": "/status-checker"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "big-update",
+          "metadata": {
+            "permalink": "/blog/big-update",
+            "source": "@site/blog/2021-01-04-updates.md",
+            "description": "This post is a boring, unorganized changelog with some rambling thoughts.",
+            "date": "2021-01-04T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "updates",
+                "permalink": "/blog/tags/updates"
+              },
+              {
+                "label": "devlog",
+                "permalink": "/blog/tags/devlog"
+              },
+              {
+                "label": "lsdata",
+                "permalink": "/blog/tags/lsdata"
+              }
+            ],
+            "title": "Lots of updates for LSData",
+            "readingTime": 1.245,
+            "truncated": false,
+            "nextItem": {
+              "title": "Hello, world!",
+              "permalink": "/blog/hello"
+            }
+          }
+        },
+        {
+          "id": "hello",
+          "metadata": {
+            "permalink": "/blog/hello",
+            "source": "@site/blog/2021-01-02-hello.md",
+            "description": "Hi all! This blog will be the home of articles written by current law school students, applicants, and alumni.",
+            "date": "2021-01-02T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "lsdata",
+                "permalink": "/blog/tags/lsdata"
+              }
+            ],
+            "title": "Hello, world!",
+            "readingTime": 0.35,
+            "truncated": false,
+            "prevItem": {
+              "title": "Lots of updates for LSData",
+              "permalink": "/blog/big-update"
+            }
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 2,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "big-update",
+            "hello"
+          ]
+        }
+      ],
+      "blogTags": {
+        "updates": {
+          "name": "updates",
+          "items": [
+            "big-update"
+          ],
+          "permalink": "/blog/tags/updates"
+        },
+        "devlog": {
+          "name": "devlog",
+          "items": [
+            "big-update"
+          ],
+          "permalink": "/blog/tags/devlog"
+        },
+        "lsdata": {
+          "name": "lsdata",
+          "items": [
+            "big-update",
+            "hello"
+          ],
+          "permalink": "/blog/tags/lsdata"
+        },
+        "hello": {
+          "name": "hello",
+          "items": [
+            "hello"
+          ],
+          "permalink": "/blog/tags/hello"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": []
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

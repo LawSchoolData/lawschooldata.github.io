@@ -1,0 +1,13 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Lots of updates for LSData",
+      "permalink": "/blog/big-update"
+    },
+    {
+      "title": "Hello, world!",
+      "permalink": "/blog/hello"
+    }
+  ]
+}

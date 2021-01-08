@@ -1,0 +1,20 @@
+{
+  "unversionedId": "terminology",
+  "id": "terminology",
+  "isDocsHomePage": false,
+  "title": "Terminology and slang",
+  "description": "Commonly used slang and terminology used by law school applicants. Missing a term? Have a question/suggestion?",
+  "source": "@site/docs/terminology.md",
+  "slug": "/terminology",
+  "permalink": "/terminology",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "How to go to law school",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Automated status checker",
+    "permalink": "/status-checker"
+  }
+}

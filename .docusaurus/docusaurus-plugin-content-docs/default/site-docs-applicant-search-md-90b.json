@@ -1,0 +1,21 @@
+{
+  "unversionedId": "applicant_search",
+  "id": "applicant_search",
+  "isDocsHomePage": false,
+  "title": "LSData's Applicant Search",
+  "description": "aoeu",
+  "source": "@site/docs/applicant_search.md",
+  "slug": "/applicant_search",
+  "permalink": "/docs/applicant_search",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/applicant_search.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "LSData's automated status checker",
+    "permalink": "/docs/status_checker"
+  },
+  "next": {
+    "title": "Style Guide",
+    "permalink": "/docs/"
+  }
+}

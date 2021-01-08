@@ -1,0 +1,17 @@
+{
+  "unversionedId": "how_to_apply",
+  "id": "how_to_apply",
+  "isDocsHomePage": false,
+  "title": "How to go to law school",
+  "description": "aoeu",
+  "source": "@site/docs/how_to_apply.md",
+  "slug": "/how_to_apply",
+  "permalink": "/docs/how_to_apply",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/how_to_apply.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Terminology and slang",
+    "permalink": "/docs/terminology"
+  }
+}

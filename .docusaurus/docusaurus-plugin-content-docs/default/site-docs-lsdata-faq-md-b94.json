@@ -1,0 +1,16 @@
+{
+  "unversionedId": "lsdata-faq",
+  "id": "lsdata-faq",
+  "isDocsHomePage": false,
+  "title": "Frequently Asked Questions",
+  "description": "Have an unanswered question?",
+  "source": "@site/docs/lsdata-faq.md",
+  "slug": "/lsdata-faq",
+  "permalink": "/lsdata-faq",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "School graphs",
+    "permalink": "/school-graphs"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "status-checker",
+  "id": "status-checker",
+  "isDocsHomePage": false,
+  "title": "Automated status checker",
+  "description": "Automatically checks all of your app statuses with the tap of a button. Saves you the effort of manually logging in to 20 different status checker websites.",
+  "source": "@site/docs/status-checker.md",
+  "slug": "/status-checker",
+  "permalink": "/status-checker",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Terminology and slang",
+    "permalink": "/terminology"
+  },
+  "next": {
+    "title": "Applicant search",
+    "permalink": "/applicant-search"
+  }
+}

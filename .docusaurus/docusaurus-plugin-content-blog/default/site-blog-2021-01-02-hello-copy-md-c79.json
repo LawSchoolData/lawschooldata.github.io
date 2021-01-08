@@ -1,0 +1,24 @@
+{
+  "permalink": "/blog/hello",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2021-01-02-hello copy.md",
+  "source": "@site/blog/2021-01-02-hello copy.md",
+  "description": "Hi all! This blog will be the home of articles written by current law school students, applicants, and alumni.",
+  "date": "2021-01-02T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "hello",
+      "permalink": "/blog/tags/hello"
+    },
+    {
+      "label": "lsdata",
+      "permalink": "/blog/tags/lsdata"
+    }
+  ],
+  "title": "Hello, world!",
+  "readingTime": 0.35,
+  "truncated": false,
+  "nextItem": {
+    "title": "Hello, world!",
+    "permalink": "/blog/hello"
+  }
+}

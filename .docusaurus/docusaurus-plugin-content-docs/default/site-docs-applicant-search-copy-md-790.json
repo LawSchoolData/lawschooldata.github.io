@@ -1,0 +1,11 @@
+{
+  "unversionedId": "applicant-search copy",
+  "id": "applicant-search copy",
+  "isDocsHomePage": false,
+  "title": "Applicant search",
+  "description": "The applicant search allows you to search for applicants that meet certain criteria, e.g. KJD applicants with a GPA between 3.0-3.3 and an LSAT between 160-162.",
+  "source": "@site/docs/applicant-search copy.md",
+  "slug": "/applicant-search copy",
+  "permalink": "/applicant-search copy",
+  "version": "current"
+}

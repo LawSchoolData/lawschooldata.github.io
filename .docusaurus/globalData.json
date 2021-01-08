@@ -1,0 +1,64 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "how-to-apply",
+          "docs": [
+            {
+              "id": "applicant-search",
+              "path": "/applicant-search",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "doc1",
+              "path": "/doc1"
+            },
+            {
+              "id": "doc2",
+              "path": "/doc2"
+            },
+            {
+              "id": "doc3",
+              "path": "/doc3"
+            },
+            {
+              "id": "how-to-apply",
+              "path": "/",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "lsdata-faq",
+              "path": "/lsdata-faq",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "mdx",
+              "path": "/mdx"
+            },
+            {
+              "id": "school-graphs",
+              "path": "/school-graphs",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "status-checker",
+              "path": "/status-checker",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "terminology",
+              "path": "/terminology",
+              "sidebar": "someSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

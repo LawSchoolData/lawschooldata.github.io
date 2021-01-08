@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/big-update",
+  "source": "@site/blog/2021-01-04-updates.md",
+  "description": "This post is a boring, unorganized changelog with some rambling thoughts.",
+  "date": "2021-01-04T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "updates",
+      "permalink": "/blog/tags/updates"
+    },
+    {
+      "label": "devlog",
+      "permalink": "/blog/tags/devlog"
+    },
+    {
+      "label": "lsdata",
+      "permalink": "/blog/tags/lsdata"
+    }
+  ],
+  "title": "Lots of updates for LSData",
+  "readingTime": 1.245,
+  "truncated": false,
+  "nextItem": {
+    "title": "Hello, world!",
+    "permalink": "/blog/hello"
+  }
+}

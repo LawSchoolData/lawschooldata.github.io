@@ -68,7 +68,7 @@ The top 14 law schools as ranked by USNWR.  See the [ranking page](https://www.l
 The top 25 law schools as ranked by USNWR. See the [ranking page](https://www.lawschooldata.org/rankings) for the exact ranks.
 
 ### TTT
-Slang for the third (rank 105-139)/fourth tier(139+) in the [USNWR rankings]((https://www.lawschooldata.org/rankings)). Originally a derogatory initialism of "Third Tier Toilet".
+Slang for the third (rank 105-139)/fourth tier(139+) in the [USNWR rankings](https://www.lawschooldata.org/rankings). Originally a derogatory initialism of "Third Tier Toilet".
 
 ### TTTT
 Slang for the fourth tier in the [USNWR rankings](https://www.lawschooldata.org/rankings).

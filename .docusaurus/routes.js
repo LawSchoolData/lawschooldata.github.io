@@ -4,32 +4,12 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
 {
   path: '/blog',
-  component: ComponentCreator('/blog','914'),
+  component: ComponentCreator('/blog','cd5'),
   exact: true,
 },
 {
-  path: '/blog-staging',
-  component: ComponentCreator('/blog-staging','f1e'),
-  exact: true,
-},
-{
-  path: '/blog-staging/advice-corner-choosing-a-law-school',
-  component: ComponentCreator('/blog-staging/advice-corner-choosing-a-law-school','0f8'),
-  exact: true,
-},
-{
-  path: '/blog-staging/tags',
-  component: ComponentCreator('/blog-staging/tags','284'),
-  exact: true,
-},
-{
-  path: '/blog-staging/tags/advice-corner',
-  component: ComponentCreator('/blog-staging/tags/advice-corner','fd7'),
-  exact: true,
-},
-{
-  path: '/blog-staging/tags/legally-blonde-af',
-  component: ComponentCreator('/blog-staging/tags/legally-blonde-af','82c'),
+  path: '/blog/advice-corner-choosing-a-law-school',
+  component: ComponentCreator('/blog/advice-corner-choosing-a-law-school','e51'),
   exact: true,
 },
 {
@@ -48,6 +28,11 @@ export default [
   exact: true,
 },
 {
+  path: '/blog/tags/advice-corner',
+  component: ComponentCreator('/blog/tags/advice-corner','0ea'),
+  exact: true,
+},
+{
   path: '/blog/tags/devlog',
   component: ComponentCreator('/blog/tags/devlog','2a7'),
   exact: true,
@@ -55,6 +40,11 @@ export default [
 {
   path: '/blog/tags/hello',
   component: ComponentCreator('/blog/tags/hello','cdb'),
+  exact: true,
+},
+{
+  path: '/blog/tags/legally-blonde-af',
+  component: ComponentCreator('/blog/tags/legally-blonde-af','533'),
   exact: true,
 },
 {

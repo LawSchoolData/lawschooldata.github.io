@@ -1,4 +1,18 @@
 {
+  "legally-blonde-af": {
+    "allTagsPath": "/blog/tags",
+    "slug": "legally-blonde-af",
+    "name": "legally blonde af",
+    "count": 1,
+    "permalink": "/blog/tags/legally-blonde-af"
+  },
+  "advice-corner": {
+    "allTagsPath": "/blog/tags",
+    "slug": "advice-corner",
+    "name": "advice corner",
+    "count": 1,
+    "permalink": "/blog/tags/advice-corner"
+  },
   "updates": {
     "allTagsPath": "/blog/tags",
     "slug": "updates",

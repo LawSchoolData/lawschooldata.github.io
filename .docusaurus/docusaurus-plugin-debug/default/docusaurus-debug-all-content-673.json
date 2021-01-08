@@ -229,6 +229,32 @@
     "default": {
       "blogPosts": [
         {
+          "id": "advice-corner-choosing-a-law-school",
+          "metadata": {
+            "permalink": "/blog/advice-corner-choosing-a-law-school",
+            "source": "@site/blog/2021-01-07-blonde-af-1.md",
+            "description": "Acceptances",
+            "date": "2021-01-07T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "legally blonde af",
+                "permalink": "/blog/tags/legally-blonde-af"
+              },
+              {
+                "label": "advice corner",
+                "permalink": "/blog/tags/advice-corner"
+              }
+            ],
+            "title": "Advice Corner: Choosing a law school",
+            "readingTime": 7.625,
+            "truncated": true,
+            "nextItem": {
+              "title": "Lots of updates for LSData",
+              "permalink": "/blog/big-update"
+            }
+          }
+        },
+        {
           "id": "big-update",
           "metadata": {
             "permalink": "/blog/big-update",
@@ -252,6 +278,10 @@
             "title": "Lots of updates for LSData",
             "readingTime": 1.25,
             "truncated": true,
+            "prevItem": {
+              "title": "Advice Corner: Choosing a law school",
+              "permalink": "/blog/advice-corner-choosing-a-law-school"
+            },
             "nextItem": {
               "title": "Hello, world!",
               "permalink": "/blog/hello"
@@ -292,19 +322,34 @@
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 2,
+            "totalCount": 3,
             "previousPage": null,
             "nextPage": null,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           },
           "items": [
+            "advice-corner-choosing-a-law-school",
             "big-update",
             "hello"
           ]
         }
       ],
       "blogTags": {
+        "legally-blonde-af": {
+          "name": "legally blonde af",
+          "items": [
+            "advice-corner-choosing-a-law-school"
+          ],
+          "permalink": "/blog/tags/legally-blonde-af"
+        },
+        "advice-corner": {
+          "name": "advice corner",
+          "items": [
+            "advice-corner-choosing-a-law-school"
+          ],
+          "permalink": "/blog/tags/advice-corner"
+        },
         "updates": {
           "name": "updates",
           "items": [
@@ -337,67 +382,7 @@
       },
       "blogTagsListPath": "/blog/tags"
     },
-    "second-blog": {
-      "blogPosts": [
-        {
-          "id": "advice-corner-choosing-a-law-school",
-          "metadata": {
-            "permalink": "/my-second-blog/advice-corner-choosing-a-law-school",
-            "source": "@site/second-blog/2021-01-07-blonde-af-1.md",
-            "description": "Acceptances",
-            "date": "2021-01-07T00:00:00.000Z",
-            "tags": [
-              {
-                "label": "legally blonde af",
-                "permalink": "/my-second-blog/tags/legally-blonde-af"
-              },
-              {
-                "label": "advice corner",
-                "permalink": "/my-second-blog/tags/advice-corner"
-              }
-            ],
-            "title": "Advice Corner: Choosing a law school",
-            "readingTime": 7.64,
-            "truncated": true
-          }
-        }
-      ],
-      "blogListPaginated": [
-        {
-          "metadata": {
-            "permalink": "/my-second-blog",
-            "page": 1,
-            "postsPerPage": 10,
-            "totalPages": 1,
-            "totalCount": 1,
-            "previousPage": null,
-            "nextPage": null,
-            "blogDescription": "Blog",
-            "blogTitle": "Blog"
-          },
-          "items": [
-            "advice-corner-choosing-a-law-school"
-          ]
-        }
-      ],
-      "blogTags": {
-        "legally-blonde-af": {
-          "name": "legally blonde af",
-          "items": [
-            "advice-corner-choosing-a-law-school"
-          ],
-          "permalink": "/my-second-blog/tags/legally-blonde-af"
-        },
-        "advice-corner": {
-          "name": "advice corner",
-          "items": [
-            "advice-corner-choosing-a-law-school"
-          ],
-          "permalink": "/my-second-blog/tags/advice-corner"
-        }
-      },
-      "blogTagsListPath": "/my-second-blog/tags"
-    }
+    "second-blog": null
   },
   "docusaurus-plugin-content-pages": {
     "default": []

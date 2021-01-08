@@ -4,10 +4,17 @@ title: Frequently Asked Questions
 
 [Have an unanswered question?](https://forms.gle/7ML5398xeCyNJYvE8)
 
+### What do the tiers of softs mean, exactly?
+The soft tiers that LSData uses are based off of a [comment made by /u/whistleridge](https://www.reddit.com/r/lawschooladmissions/comments/660o4h/classifying_softs_and_clarifying_what_is_and_is) from reddit. 
+
+:::caution
+The soft tiers are **NOT** to be taken super seriously. Softs are inherently unquantifiable. The tiers are **very** rough guidelines for putting a number on something that really can't be quantified. Don't take the tiers too seriously when comparing yourself to other applicants on LSData. Holistically valuing softs is the admissions comittee's job.
+:::
+
 ### Where do you get all this data from?
 Most data on LSData is user reported. Some information is pulled from [ABA 509 reports](terminology#aba-509-report).
 
-### Do you vet or verify the data?
+##### Do you vet or verify the data?
 Generally speaking, no. The system runs on good faith and the belief that there is little incentive to lie when your data is semi-anonymized and aggregated. Obvious errors such as reporting decision dates in the future, or an acceptance to YLS with a 120 LSAT are sometimes fixed.
 
 ### Why am I not receiving my verification/password reset email?

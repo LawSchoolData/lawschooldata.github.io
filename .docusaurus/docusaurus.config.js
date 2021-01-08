@@ -6,8 +6,8 @@ export default {
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "lawschooldata",
+  "projectName": "lawschooldata.github.io",
   "themeConfig": {
     "navbar": {
       "title": "LSData",
@@ -36,6 +36,10 @@ export default {
       "style": "dark",
       "copyright": "Copyright © 2021 LSData.",
       "links": []
+    },
+    "googleAnalytics": {
+      "trackingID": "UA-132877936-2",
+      "anonymizeIP": true
     },
     "colorMode": {
       "defaultMode": "light",

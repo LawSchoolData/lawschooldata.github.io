@@ -6,8 +6,8 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'lawschooldata', // Usually your GitHub org/user name.
+  projectName: 'lawschooldata.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'LSData',
@@ -30,6 +30,11 @@ module.exports = {
     footer: {
       style: 'dark',
       copyright: `Copyright © ${new Date().getFullYear()} LSData.`,
+    },
+    googleAnalytics: {
+      trackingID: 'G-GLFHY5FSS9',
+      // Optional fields.
+      anonymizeIP: true, // Should IPs be anonymized?
     },
   },
   presets: [

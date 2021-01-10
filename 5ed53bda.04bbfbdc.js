@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{88:function(o){o.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Advice Corner: Choosing a law school","permalink":"/blog/advice-corner-choosing-a-law-school"},{"title":"Lots of updates for LSData","permalink":"/blog/big-update"},{"title":"Hello, world!","permalink":"/blog/hello"}]}')}}]);

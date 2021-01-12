@@ -15,11 +15,11 @@
             <description><![CDATA[Acceptances]]></description>
         </item>
         <item>
-            <title><![CDATA[Lots of updates for LSData]]></title>
+            <title><![CDATA[LSData changelog]]></title>
             <link>https://your-docusaurus-test-site.com/blog/big-update</link>
             <guid>big-update</guid>
             <pubDate>Mon, 04 Jan 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[This post is a boring, unorganized changelog with some rambling thoughts.]]></description>
+            <description><![CDATA[This post contains boring, unorganized changelogs with some rambling thoughts.]]></description>
         </item>
         <item>
             <title><![CDATA[Hello, world!]]></title>

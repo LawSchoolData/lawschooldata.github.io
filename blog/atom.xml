@@ -15,11 +15,11 @@
         <summary type="html"><![CDATA[Acceptances]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lots of updates for LSData]]></title>
+        <title type="html"><![CDATA[LSData changelog]]></title>
         <id>big-update</id>
         <link href="https://your-docusaurus-test-site.com/blog/big-update"/>
         <updated>2021-01-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is a boring, unorganized changelog with some rambling thoughts.]]></summary>
+        <summary type="html"><![CDATA[This post contains boring, unorganized changelogs with some rambling thoughts.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello, world!]]></title>

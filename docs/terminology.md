@@ -28,6 +28,9 @@ This refers to law school info and disclosures required by the American Bar Asso
 
 You can find the reports [here](http://www.abarequireddisclosures.org/Disclosure509.aspx). For a detailed breakdown of ABA 509s, read more [here](https://blog.spiveyconsulting.com/understanding-aba-509-reports/).
 
+### CoL
+Cost of Living. All the costs associated with going to law school, excluding tuition.
+
 ### Cycle
 Short for 'application cycle'. Refers to the period during which law school apps are submitted and considered. Generally starts in September and ends in April of the following year, although waitlisted applicants may not receive a final decision until late summer or fall (right before school starts).
 
@@ -43,14 +46,35 @@ Application fee waiver. Fee waivers may be either need or merit-based. To receiv
 ### Going red
 When there has been a change in your application status. When the LSData's automated status checker detects a change in an application's status, the text will turn red, hence "going red".
 
+### JS1/JS2
+See [KJ1](kj1kj2). The previous dean of admissions at HLS was Jessica Soban, hence the initials JS. No longer used.
+
+### KJ1/KJ2
+Refers to receiving an interview invite (KJ1) or acceptance (KJ2) from HLS. The current dean of admissions at HLS is Kristi Jobson, hence the initials KJ.
+
 ### KJD
 Kindergarten to JD. An applicant that applies to law school directly out of college with no work experience.
 
 ### Reverse splitter
 Similar to a splitter, but with GPA and LSAT reversed: An applicant whose GPA is above the school's median (50th percentile) and whose LSAT is below the median.
 
+### Ruby
+UChicago's coveted Rubenstein scholarship. Full tuition plus $20k annual stipend.
+
+### $$$$
+The amount of money that you received as a scholarship. Each $ is equivalent to 25% tuition (excludes [CoL](#col)). $$$ = 75% scholarship, $$$$ = full ride, $$$$+ = full ride + stipend.
+
+### Softs
+The counterpart to an app's hard [stats](#stats). The soft, unquantifiable part of your application that sets you apart from others. This includes life experiences, accomplishments, hardships overcome, and more. Technically includes everything in your app apart from your stats, but when used colloquially, it usually excludes personal statements and recommendation letters. E.g. "I had strong recs, a killer PS, and T1 softs but I still got donged by YLS."
+
+### Soft tiers
+Refers to T1, T2, T3, and T4 soft tiers. Read more [here](lsdata-faq#what-do-the-tiers-of-softs-mean-exactly).
+
 ### Splitter
 An applicant whose LSAT is above the school's median (50th percentile) and whose GPA is below the median.
+
+### Stats
+An applicant's uGPA and test scores (usually LSAT). Counterpart to an app's [softs](#softs).
 
 ### Super splitter
 An applicant with an LSAT above the school's 75th percentile and GPA below the school's 25th percentile.

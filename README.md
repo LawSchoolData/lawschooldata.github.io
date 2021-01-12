@@ -31,3 +31,16 @@ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+## Docsearch
+builds search index to search docs. Install docker: https://docs.docker.com/engine/install/ubuntu/
+
+Make sure to disable contextual search in docusaurus.config.js
+
+Create an algolia account, put appId, apiKey, indexName in docusaurus.config.js. Need to have appId because we're not using algolia's free search/crawl
+
+`sudo docker pull algolia/docsearch-scraper`
+
+`sudo apt install jq`
+
+`sudo docker run -it --env-file=.env -e "CONFIG=$(cat docsearch_config.json | jq -r tostring)" algolia/docsearch-scraper`

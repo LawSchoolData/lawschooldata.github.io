@@ -36,6 +36,16 @@ module.exports = {
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
     },
+    algolia: {
+      appId: '4OL8WYDIQB',
+      apiKey: 'b7604fd2262e7c5169603c2fc810e42d',
+      indexName: 'lsdata',
+
+      // Optional: Algolia search parameters
+      searchParameters: {},
+
+      //... other Algolia params
+    },
   },
   presets: [
     [

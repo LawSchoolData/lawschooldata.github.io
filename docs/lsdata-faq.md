@@ -4,7 +4,15 @@ title: Frequently Asked Questions
 
 [Have an unanswered question?](https://forms.gle/7ML5398xeCyNJYvE8)
 
-### What do the tiers of softs mean, exactly?
+### How much money is $$$, exactly? What does it mean when people say that they received a scholarship of $$?
+Each $ is equivalent to 25% tuition (excludes [CoL](terminology#col)). 
+* $ = 25% scholarship
+* $$ = 50% scholarship
+* $$$ = 75% scholarship
+* $$$$ = full ride
+* $$$$+ = full ride + stipend ([Yes, these exist.](terminology#ruby))
+
+### What do the tiers of softs mean?
 The soft tiers that LSData uses are based off of a [comment made by /u/whistleridge](https://www.reddit.com/r/lawschooladmissions/comments/660o4h/classifying_softs_and_clarifying_what_is_and_is) from reddit. 
 
 :::caution

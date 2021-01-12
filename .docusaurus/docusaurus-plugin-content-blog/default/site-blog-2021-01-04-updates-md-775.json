@@ -1,7 +1,7 @@
 {
   "permalink": "/blog/big-update",
   "source": "@site/blog/2021-01-04-updates.md",
-  "description": "This post is a boring, unorganized changelog with some rambling thoughts.",
+  "description": "This post contains boring, unorganized changelogs with some rambling thoughts.",
   "date": "2021-01-04T00:00:00.000Z",
   "tags": [
     {
@@ -17,8 +17,8 @@
       "permalink": "/blog/tags/lsdata"
     }
   ],
-  "title": "Lots of updates for LSData",
-  "readingTime": 1.25,
+  "title": "LSData changelog",
+  "readingTime": 2.02,
   "truncated": true,
   "prevItem": {
     "title": "Advice Corner: Choosing a law school",

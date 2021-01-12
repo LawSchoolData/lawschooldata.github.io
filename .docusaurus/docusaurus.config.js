@@ -41,6 +41,13 @@ export default {
       "trackingID": "UA-132877936-3",
       "anonymizeIP": true
     },
+    "algolia": {
+      "appId": "4OL8WYDIQB",
+      "apiKey": "b7604fd2262e7c5169603c2fc810e42d",
+      "indexName": "lsdata",
+      "searchParameters": {},
+      "contextualSearch": false
+    },
     "colorMode": {
       "defaultMode": "light",
       "disableSwitch": false,

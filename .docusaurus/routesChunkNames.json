@@ -1,145 +1,170 @@
 {
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
   "/blog-cd5": {
-    "component": "a6aa9e1f",
-    "sidebar": "5ed53bda",
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blog-5-ed-c0d",
     "items": [
       {
-        "content": "589addfd"
+        "content": "content---blog-589-478"
       },
       {
-        "content": "8895186f"
+        "content": "content---blog-889-d85"
       },
       {
-        "content": "c5456ad0"
+        "content": "content---blogc-54-a2d"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "metadata---blogb-2-b-df1"
   },
   "/blog/advice-corner-choosing-a-law-school-e51": {
-    "component": "ccc49370",
-    "sidebar": "5ed53bda",
-    "content": "1ed8907f"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-5-ed-c0d",
+    "content": "content---blog-advice-corner-choosing-a-law-school-1-ed-15f"
   },
   "/blog/big-update-353": {
-    "component": "ccc49370",
-    "sidebar": "5ed53bda",
-    "content": "775008be"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-5-ed-c0d",
+    "content": "content---blog-big-update-775-420"
   },
   "/blog/hello-cc9": {
-    "component": "ccc49370",
-    "sidebar": "5ed53bda",
-    "content": "2879d22c"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-5-ed-c0d",
+    "content": "content---blog-hello-287-f5b"
   },
   "/blog/tags-4ba": {
-    "component": "01a85c17",
-    "sidebar": "5ed53bda",
-    "tags": "a7023ddc"
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---blog-5-ed-c0d",
+    "tags": "tags---blog-tagsa-70-da2"
   },
   "/blog/tags/advice-corner-0ea": {
-    "component": "6875c492",
-    "sidebar": "5ed53bda",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-5-ed-c0d",
     "items": [
       {
-        "content": "589addfd"
+        "content": "content---blog-589-478"
       }
     ],
-    "metadata": "2db356a2"
+    "metadata": "metadata---blog-tags-advice-corner-2-db-73e"
   },
   "/blog/tags/devlog-2a7": {
-    "component": "6875c492",
-    "sidebar": "5ed53bda",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-5-ed-c0d",
     "items": [
       {
-        "content": "8895186f"
+        "content": "content---blog-889-d85"
       }
     ],
-    "metadata": "4570a037"
+    "metadata": "metadata---blog-tags-devlog-457-493"
   },
   "/blog/tags/hello-cdb": {
-    "component": "6875c492",
-    "sidebar": "5ed53bda",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-5-ed-c0d",
     "items": [
       {
-        "content": "c5456ad0"
+        "content": "content---blogc-54-a2d"
       }
     ],
-    "metadata": "30a24c52"
+    "metadata": "metadata---blog-tags-hello-30-a-bed"
   },
   "/blog/tags/legally-blonde-af-533": {
-    "component": "6875c492",
-    "sidebar": "5ed53bda",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-5-ed-c0d",
     "items": [
       {
-        "content": "589addfd"
+        "content": "content---blog-589-478"
       }
     ],
-    "metadata": "3b59aa04"
+    "metadata": "metadata---blog-tags-legally-blonde-af-3-b-5-120"
   },
   "/blog/tags/lsdata-ba7": {
-    "component": "6875c492",
-    "sidebar": "5ed53bda",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-5-ed-c0d",
     "items": [
       {
-        "content": "8895186f"
+        "content": "content---blog-889-d85"
       },
       {
-        "content": "c5456ad0"
+        "content": "content---blogc-54-a2d"
       }
     ],
-    "metadata": "fa05f8f1"
+    "metadata": "metadata---blog-tags-lsdatafa-0-045"
   },
   "/blog/tags/updates-808": {
-    "component": "6875c492",
-    "sidebar": "5ed53bda",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-5-ed-c0d",
     "items": [
       {
-        "content": "8895186f"
+        "content": "content---blog-889-d85"
       }
     ],
-    "metadata": "a77b7156"
+    "metadata": "metadata---blog-tags-updatesa-77-1fb"
+  },
+  "/search-ded": {
+    "component": "component---home-dinan-idea-projects-lsdata-docs-node-modules-docusaurus-theme-search-algolia-src-theme-search-page-index-js-3-f-4-d79"
   },
   "/-14f": {
-    "component": "1be78505",
-    "versionMetadata": "935f2afb"
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---935-fcf"
   },
   "/-47d": {
-    "component": "17896441",
-    "content": "1170a275"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---117-d3d"
   },
   "/applicant-search-d54": {
-    "component": "17896441",
-    "content": "54783eaf"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---applicant-search-547-2b6"
   },
   "/doc1-9f0": {
-    "component": "17896441",
-    "content": "b2f90839"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---doc-1-b-2-f-07b"
   },
   "/doc2-328": {
-    "component": "17896441",
-    "content": "df361e2b"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---doc-2-df-3-2b8"
   },
   "/doc3-5d3": {
-    "component": "17896441",
-    "content": "616665f6"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---doc-3616-7d1"
   },
   "/lsdata-faq-d12": {
-    "component": "17896441",
-    "content": "b944066d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---lsdata-faqb-94-873"
   },
   "/mdx-f9a": {
-    "component": "17896441",
-    "content": "ce3e42ad"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---mdxce-3-3a5"
   },
   "/school-graphs-3cf": {
-    "component": "17896441",
-    "content": "505c06f9"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---school-graphs-505-506"
   },
   "/status-checker-368": {
-    "component": "17896441",
-    "content": "c317f0bd"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---status-checkerc-31-203"
   },
   "/terminology-764": {
-    "component": "17896441",
-    "content": "6b50e60a"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---terminology-6-b-5-3a1"
   }
 }

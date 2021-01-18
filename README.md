@@ -39,6 +39,13 @@ Make sure to disable contextual search in docusaurus.config.js
 
 Create an algolia account, put appId, apiKey, indexName in docusaurus.config.js. Need to have appId because we're not using algolia's free search/crawl
 
+Set config for docker scraper in `.env`
+
+```
+APPLICATION_ID=2...3
+API_KEY=e...9
+```
+
 `sudo docker pull algolia/docsearch-scraper`
 
 `sudo apt install jq`

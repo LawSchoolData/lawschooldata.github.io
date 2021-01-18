@@ -6,7 +6,7 @@ Automatically checks all of your app statuses with the tap of a button. Saves yo
 
 ## Status checker activation
 
-<video controls className="border--round box-shadow-wide">
+<video autoplay="true" controls className="border--round box-shadow-wide">
 <source src="/videos/activate-status-checker.mp4" type="video/mp4"></source>
 </video>
 

@@ -2,7 +2,7 @@
 title: Applicant search
 ---
 
-<video controls className="border--round box-shadow-wide">
+<video autoplay="true" controls className="border--round box-shadow-wide">
 <source src="/videos/applicant-search.mp4" type="video/mp4"></source>
 </video>
 

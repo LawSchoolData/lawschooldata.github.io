@@ -2,7 +2,7 @@
 title: School graphs
 ---
 
-<video controls className="border--round box-shadow-wide">
+<video autoplay="true" controls className="border--round box-shadow-wide">
 <source src="/videos/school-graphs.mp4" type="video/mp4"></source>
 </video>
 

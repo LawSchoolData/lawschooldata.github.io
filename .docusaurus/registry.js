@@ -10,6 +10,7 @@ export default {
   '3b59aa04': [() => import(/* webpackChunkName: '3b59aa04' */ "~blog/default/blog-tags-legally-blonde-af-7dd.json"), "~blog/default/blog-tags-legally-blonde-af-7dd.json", require.resolveWeak("~blog/default/blog-tags-legally-blonde-af-7dd.json")],
   '3f4dee6d': [() => import(/* webpackChunkName: '3f4dee6d' */ "/home/dinan/IdeaProjects/lsdata_docs/node_modules/@docusaurus/theme-search-algolia/src/theme/SearchPage/index.js"), "/home/dinan/IdeaProjects/lsdata_docs/node_modules/@docusaurus/theme-search-algolia/src/theme/SearchPage/index.js", require.resolveWeak("/home/dinan/IdeaProjects/lsdata_docs/node_modules/@docusaurus/theme-search-algolia/src/theme/SearchPage/index.js")],
   '4570a037': [() => import(/* webpackChunkName: '4570a037' */ "~blog/default/blog-tags-devlog-6a1.json"), "~blog/default/blog-tags-devlog-6a1.json", require.resolveWeak("~blog/default/blog-tags-devlog-6a1.json")],
+  '4bb4a7a4': [() => import(/* webpackChunkName: '4bb4a7a4' */ "@site/blog/2021-01-31-admissions-for-one-dummy.md?truncated=true"), "@site/blog/2021-01-31-admissions-for-one-dummy.md?truncated=true", require.resolveWeak("@site/blog/2021-01-31-admissions-for-one-dummy.md?truncated=true")],
   '505c06f9': [() => import(/* webpackChunkName: '505c06f9' */ "@site/docs/school-graphs.md"), "@site/docs/school-graphs.md", require.resolveWeak("@site/docs/school-graphs.md")],
   '54783eaf': [() => import(/* webpackChunkName: '54783eaf' */ "@site/docs/applicant-search.md"), "@site/docs/applicant-search.md", require.resolveWeak("@site/docs/applicant-search.md")],
   '589addfd': [() => import(/* webpackChunkName: '589addfd' */ "@site/blog/2021-01-07-blonde-af-1.md?truncated=true"), "@site/blog/2021-01-07-blonde-af-1.md?truncated=true", require.resolveWeak("@site/blog/2021-01-07-blonde-af-1.md?truncated=true")],
@@ -19,6 +20,7 @@ export default {
   '6b50e60a': [() => import(/* webpackChunkName: '6b50e60a' */ "@site/docs/terminology.md"), "@site/docs/terminology.md", require.resolveWeak("@site/docs/terminology.md")],
   '775008be': [() => import(/* webpackChunkName: '775008be' */ "@site/blog/2021-01-04-updates.md"), "@site/blog/2021-01-04-updates.md", require.resolveWeak("@site/blog/2021-01-04-updates.md")],
   '8895186f': [() => import(/* webpackChunkName: '8895186f' */ "@site/blog/2021-01-04-updates.md?truncated=true"), "@site/blog/2021-01-04-updates.md?truncated=true", require.resolveWeak("@site/blog/2021-01-04-updates.md?truncated=true")],
+  '90601f86': [() => import(/* webpackChunkName: '90601f86' */ "~blog/default/blog-tags-glen-32f.json"), "~blog/default/blog-tags-glen-32f.json", require.resolveWeak("~blog/default/blog-tags-glen-32f.json")],
   '935f2afb': [() => import(/* webpackChunkName: '935f2afb' */ "~docs/default/version-current-metadata-prop-751.json"), "~docs/default/version-current-metadata-prop-751.json", require.resolveWeak("~docs/default/version-current-metadata-prop-751.json")],
   'a6aa9e1f': [() => import(/* webpackChunkName: 'a6aa9e1f' */ "@theme/BlogListPage"), "@theme/BlogListPage", require.resolveWeak("@theme/BlogListPage")],
   'a7023ddc': [() => import(/* webpackChunkName: 'a7023ddc' */ "~blog/default/blog-tags-tags-4c2.json"), "~blog/default/blog-tags-tags-4c2.json", require.resolveWeak("~blog/default/blog-tags-tags-4c2.json")],
@@ -31,4 +33,5 @@ export default {
   'ccc49370': [() => import(/* webpackChunkName: 'ccc49370' */ "@theme/BlogPostPage"), "@theme/BlogPostPage", require.resolveWeak("@theme/BlogPostPage")],
   'ce3e42ad': [() => import(/* webpackChunkName: 'ce3e42ad' */ "@site/docs/mdx.md"), "@site/docs/mdx.md", require.resolveWeak("@site/docs/mdx.md")],
   'df361e2b': [() => import(/* webpackChunkName: 'df361e2b' */ "@site/docs/doc2.md"), "@site/docs/doc2.md", require.resolveWeak("@site/docs/doc2.md")],
+  'f9a435b9': [() => import(/* webpackChunkName: 'f9a435b9' */ "@site/blog/2021-01-31-admissions-for-one-dummy.md"), "@site/blog/2021-01-31-admissions-for-one-dummy.md", require.resolveWeak("@site/blog/2021-01-31-admissions-for-one-dummy.md")],
   'fa05f8f1': [() => import(/* webpackChunkName: 'fa05f8f1' */ "~blog/default/blog-tags-lsdata-e56.json"), "~blog/default/blog-tags-lsdata-e56.json", require.resolveWeak("~blog/default/blog-tags-lsdata-e56.json")],};

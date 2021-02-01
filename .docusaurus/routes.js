@@ -4,7 +4,12 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
 {
   path: '/blog',
-  component: ComponentCreator('/blog','cd5'),
+  component: ComponentCreator('/blog','03e'),
+  exact: true,
+},
+{
+  path: '/blog/admissions-for-one-dummy',
+  component: ComponentCreator('/blog/admissions-for-one-dummy','bf4'),
   exact: true,
 },
 {
@@ -29,12 +34,17 @@ export default [
 },
 {
   path: '/blog/tags/advice-corner',
-  component: ComponentCreator('/blog/tags/advice-corner','0ea'),
+  component: ComponentCreator('/blog/tags/advice-corner','0cc'),
   exact: true,
 },
 {
   path: '/blog/tags/devlog',
   component: ComponentCreator('/blog/tags/devlog','2a7'),
+  exact: true,
+},
+{
+  path: '/blog/tags/glen',
+  component: ComponentCreator('/blog/tags/glen','4cb'),
   exact: true,
 },
 {

@@ -229,6 +229,32 @@
     "default": {
       "blogPosts": [
         {
+          "id": "admissions-for-one-dummy",
+          "metadata": {
+            "permalink": "/blog/admissions-for-one-dummy",
+            "source": "@site/blog/2021-01-31-admissions-for-one-dummy.md",
+            "description": "I knew in the summer of the “law school admissions cycle” that I was going to “take the LSAT and go to law school.”",
+            "date": "2021-01-31T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "glen",
+                "permalink": "/blog/tags/glen"
+              },
+              {
+                "label": "advice corner",
+                "permalink": "/blog/tags/advice-corner"
+              }
+            ],
+            "title": "Law School Admissions for One Dummy ",
+            "readingTime": 4.11,
+            "truncated": true,
+            "nextItem": {
+              "title": "Advice Corner: Choosing a law school",
+              "permalink": "/blog/advice-corner-choosing-a-law-school"
+            }
+          }
+        },
+        {
           "id": "advice-corner-choosing-a-law-school",
           "metadata": {
             "permalink": "/blog/advice-corner-choosing-a-law-school",
@@ -248,6 +274,10 @@
             "title": "Advice Corner: Choosing a law school",
             "readingTime": 7.625,
             "truncated": true,
+            "prevItem": {
+              "title": "Law School Admissions for One Dummy ",
+              "permalink": "/blog/admissions-for-one-dummy"
+            },
             "nextItem": {
               "title": "LSData changelog",
               "permalink": "/blog/big-update"
@@ -276,7 +306,7 @@
               }
             ],
             "title": "LSData changelog",
-            "readingTime": 2.02,
+            "readingTime": 2.045,
             "truncated": true,
             "prevItem": {
               "title": "Advice Corner: Choosing a law school",
@@ -322,13 +352,14 @@
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 3,
+            "totalCount": 4,
             "previousPage": null,
             "nextPage": null,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           },
           "items": [
+            "admissions-for-one-dummy",
             "advice-corner-choosing-a-law-school",
             "big-update",
             "hello"
@@ -336,19 +367,27 @@
         }
       ],
       "blogTags": {
+        "glen": {
+          "name": "glen",
+          "items": [
+            "admissions-for-one-dummy"
+          ],
+          "permalink": "/blog/tags/glen"
+        },
+        "advice-corner": {
+          "name": "advice corner",
+          "items": [
+            "admissions-for-one-dummy",
+            "advice-corner-choosing-a-law-school"
+          ],
+          "permalink": "/blog/tags/advice-corner"
+        },
         "legally-blonde-af": {
           "name": "legally blonde af",
           "items": [
             "advice-corner-choosing-a-law-school"
           ],
           "permalink": "/blog/tags/legally-blonde-af"
-        },
-        "advice-corner": {
-          "name": "advice corner",
-          "items": [
-            "advice-corner-choosing-a-law-school"
-          ],
-          "permalink": "/blog/tags/advice-corner"
         },
         "updates": {
           "name": "updates",

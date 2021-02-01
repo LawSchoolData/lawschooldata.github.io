@@ -32,6 +32,10 @@ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
 
+`git remote set-url origin git@github.com:LawSchoolData/lawschooldata.github.io.git`
+
+`git push`
+
 ## Docsearch
 builds search index to search docs. Install docker: https://docs.docker.com/engine/install/ubuntu/
 
@@ -51,3 +55,4 @@ API_KEY=e...9
 `sudo apt install jq`
 
 `sudo docker run -it --env-file=.env -e "CONFIG=$(cat docsearch_config.json | jq -r tostring)" algolia/docsearch-scraper`
+

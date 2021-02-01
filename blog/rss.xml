@@ -4,9 +4,16 @@
         <title>LSData Blog</title>
         <link>https://your-docusaurus-test-site.com/blog</link>
         <description>LSData Blog</description>
-        <lastBuildDate>Thu, 07 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Law School Admissions for One Dummy ]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/admissions-for-one-dummy</link>
+            <guid>admissions-for-one-dummy</guid>
+            <pubDate>Sun, 31 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[I knew in the summer of the “law school admissions cycle” that I was going to “take the LSAT and go to law school.”]]></description>
+        </item>
         <item>
             <title><![CDATA[Advice Corner: Choosing a law school]]></title>
             <link>https://your-docusaurus-test-site.com/blog/advice-corner-choosing-a-law-school</link>

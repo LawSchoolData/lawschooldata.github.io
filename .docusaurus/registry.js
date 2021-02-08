@@ -19,6 +19,7 @@ export default {
   '6875c492': [() => import(/* webpackChunkName: '6875c492' */ "@theme/BlogTagsPostsPage"), "@theme/BlogTagsPostsPage", require.resolveWeak("@theme/BlogTagsPostsPage")],
   '6b50e60a': [() => import(/* webpackChunkName: '6b50e60a' */ "@site/docs/terminology.md"), "@site/docs/terminology.md", require.resolveWeak("@site/docs/terminology.md")],
   '775008be': [() => import(/* webpackChunkName: '775008be' */ "@site/blog/2021-01-04-updates.md"), "@site/blog/2021-01-04-updates.md", require.resolveWeak("@site/blog/2021-01-04-updates.md")],
+  '85aae560': [() => import(/* webpackChunkName: '85aae560' */ "@site/docs/chat.md"), "@site/docs/chat.md", require.resolveWeak("@site/docs/chat.md")],
   '8895186f': [() => import(/* webpackChunkName: '8895186f' */ "@site/blog/2021-01-04-updates.md?truncated=true"), "@site/blog/2021-01-04-updates.md?truncated=true", require.resolveWeak("@site/blog/2021-01-04-updates.md?truncated=true")],
   '90601f86': [() => import(/* webpackChunkName: '90601f86' */ "~blog/default/blog-tags-glen-32f.json"), "~blog/default/blog-tags-glen-32f.json", require.resolveWeak("~blog/default/blog-tags-glen-32f.json")],
   '935f2afb': [() => import(/* webpackChunkName: '935f2afb' */ "~docs/default/version-current-metadata-prop-751.json"), "~docs/default/version-current-metadata-prop-751.json", require.resolveWeak("~docs/default/version-current-metadata-prop-751.json")],

@@ -48,6 +48,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "chat"
+                  },
+                  {
+                    "type": "doc",
                     "id": "lsdata-faq"
                   }
                 ]
@@ -56,6 +60,7 @@
           },
           "permalinkToSidebar": {
             "/applicant-search": "someSidebar",
+            "/chat": "someSidebar",
             "/": "someSidebar",
             "/lsdata-faq": "someSidebar",
             "/school-graphs": "someSidebar",
@@ -81,6 +86,26 @@
               "next": {
                 "title": "School graphs",
                 "permalink": "/school-graphs"
+              }
+            },
+            {
+              "unversionedId": "chat",
+              "id": "chat",
+              "isDocsHomePage": false,
+              "title": "Chat",
+              "description": "The chatrooms provide a place to connect with other applicants and joke/commiserate/vent about the application process.",
+              "source": "@site/docs/chat.md",
+              "slug": "/chat",
+              "permalink": "/chat",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "School graphs",
+                "permalink": "/school-graphs"
+              },
+              "next": {
+                "title": "Frequently Asked Questions",
+                "permalink": "/lsdata-faq"
               }
             },
             {
@@ -145,8 +170,8 @@
               "version": "current",
               "sidebar": "someSidebar",
               "previous": {
-                "title": "School graphs",
-                "permalink": "/school-graphs"
+                "title": "Chat",
+                "permalink": "/chat"
               }
             },
             {
@@ -176,8 +201,8 @@
                 "permalink": "/applicant-search"
               },
               "next": {
-                "title": "Frequently Asked Questions",
-                "permalink": "/lsdata-faq"
+                "title": "Chat",
+                "permalink": "/chat"
               }
             },
             {
@@ -306,7 +331,7 @@
               }
             ],
             "title": "LSData changelog",
-            "readingTime": 2.045,
+            "readingTime": 4.17,
             "truncated": true,
             "prevItem": {
               "title": "Advice Corner: Choosing a law school",

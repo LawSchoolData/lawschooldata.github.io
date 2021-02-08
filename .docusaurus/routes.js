@@ -74,7 +74,7 @@ export default [
 },
 {
   path: '/',
-  component: ComponentCreator('/','14f'),
+  component: ComponentCreator('/','296'),
   
   routes: [
 {
@@ -85,6 +85,11 @@ export default [
 {
   path: '/applicant-search',
   component: ComponentCreator('/applicant-search','d54'),
+  exact: true,
+},
+{
+  path: '/chat',
+  component: ComponentCreator('/chat','a64'),
   exact: true,
 },
 {

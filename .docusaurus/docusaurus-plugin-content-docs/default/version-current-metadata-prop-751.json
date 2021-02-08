@@ -44,6 +44,11 @@
           },
           {
             "type": "link",
+            "label": "Chat",
+            "href": "/chat"
+          },
+          {
+            "type": "link",
             "label": "Frequently Asked Questions",
             "href": "/lsdata-faq"
           }
@@ -53,6 +58,7 @@
   },
   "permalinkToSidebar": {
     "/applicant-search": "someSidebar",
+    "/chat": "someSidebar",
     "/": "someSidebar",
     "/lsdata-faq": "someSidebar",
     "/school-graphs": "someSidebar",

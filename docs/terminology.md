@@ -31,6 +31,9 @@ You can find the reports [here](http://www.abarequireddisclosures.org/Disclosure
 ### CoL
 Cost of Living. All the costs associated with going to law school, excluding tuition.
 
+### Complete
+When your application has been marked as complete by the law school admissions office. This means that all your materials have been received and your app is complete and ready for review. Also known as going complete.
+
 ### Cycle
 Short for 'application cycle'. Refers to the period during which law school apps are submitted and considered. Generally starts in September and ends in April of the following year, although waitlisted applicants may not receive a final decision until late summer or fall (right before school starts).
 
@@ -45,6 +48,9 @@ Application fee waiver. Fee waivers may be either need or merit-based. To receiv
 
 ### Going red
 When there has been a change in your application status. When the LSData's automated status checker detects a change in an application's status, the text will turn red, hence "going red".
+
+### Hold
+Your application is too strong to be immediately waitlisted but is unusual or not strong enough to be accepted. Because the school has not committed to a decision deadline and has many other applicants to pick and choose from, it is advantageous for the school to "hold" the application for further review and comparison.
 
 ### JS1/JS2
 See [KJ1](#kj1kj2). The previous dean of admissions at HLS was Jessica Soban, hence the initials JS. No longer used.
@@ -99,6 +105,9 @@ Slang for the third (rank 105-139)/fourth tier(139+) in the [USNWR rankings](htt
 
 ### TTTT
 Slang for the fourth tier in the [USNWR rankings](https://www.lawschooldata.org/rankings).
+
+### UR/UR2
+UR stands for under review, when the admissions office has begun reviewing your application. This is usually accompanied by a date change in your status checker. When your app is already UR and the date changes again, this is known as UR2 and likely means that your application is being reviewed by a second source.
 
 ### URM
 Under Represented Minority. URM status is usually considered as a boost when considering an applicant. What races are considered to be URM differs by school, but American Indian and Black/African American are almost always considered to have URM status. Different URM statuses are valued differently by admissions committees.

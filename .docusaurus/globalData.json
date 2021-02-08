@@ -16,6 +16,11 @@
               "sidebar": "someSidebar"
             },
             {
+              "id": "chat",
+              "path": "/chat",
+              "sidebar": "someSidebar"
+            },
+            {
               "id": "doc1",
               "path": "/doc1"
             },

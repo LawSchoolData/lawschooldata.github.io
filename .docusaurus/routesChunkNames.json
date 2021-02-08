@@ -122,7 +122,7 @@
   "/search-ded": {
     "component": "3f4dee6d"
   },
-  "/-14f": {
+  "/-296": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
@@ -133,6 +133,10 @@
   "/applicant-search-d54": {
     "component": "17896441",
     "content": "54783eaf"
+  },
+  "/chat-a64": {
+    "component": "17896441",
+    "content": "85aae560"
   },
   "/doc1-9f0": {
     "component": "17896441",

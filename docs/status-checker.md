@@ -30,3 +30,6 @@ School statuses are collapsed by default but will automatically expand when a st
 
 LSData will only check your statuses when you tap the button, with a maximum of once every 20 minutes. If you tap the button before 20 minutes has elapsed since your last refresh, nothing will happen.
 
+## Can schools see that LSData checked my status?
+
+TL;DR - Yes, it's possible but unlikely. For a longer answer, [see here](lsdata-faq#can-schools-see-that-lsdata-checked-my-status).

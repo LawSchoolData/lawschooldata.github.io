@@ -9,7 +9,7 @@ module.exports = {
     {
       type: 'category',
       label: 'LSData features',
-      items: ['status-checker', 'applicant-search', 'school-graphs', 'lsdata-faq'],
+      items: ['status-checker', 'applicant-search', 'school-graphs', 'chat', 'lsdata-faq'],
       collapsed: false,
     },
   ],

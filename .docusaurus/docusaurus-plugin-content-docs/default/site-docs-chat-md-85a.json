@@ -1,0 +1,20 @@
+{
+  "unversionedId": "chat",
+  "id": "chat",
+  "isDocsHomePage": false,
+  "title": "Chat",
+  "description": "The chatrooms provide a place to connect with other applicants and joke/commiserate/vent about the application process.",
+  "source": "@site/docs/chat.md",
+  "slug": "/chat",
+  "permalink": "/chat",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "School graphs",
+    "permalink": "/school-graphs"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/lsdata-faq"
+  }
+}

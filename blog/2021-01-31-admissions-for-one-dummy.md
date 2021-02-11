@@ -2,7 +2,7 @@
 slug: admissions-for-one-dummy
 title: 'Law School Admissions for One Dummy '
 author: Glen Ready
-author_title: HLS 2L
+author_title: HLS 2L, farm kid, knows stuff about corn
 author_image_url: '/img/glen-ready-author-headshot.jpg'
 tags: [glen, advice corner]
 ---
@@ -17,7 +17,9 @@ Now, if that sounds naïve to you, you’re right.
 
 <!--truncate-->
 
-If you knew what this process looked like before diving in, or had a mentor or tutor or family member who’d “done this” before, that’s great. If this post doesn’t resonate with you, that’s fine. This is about my ignorance and how I navigated both the wildly confusing admissions process and law school itself by finding community.
+If you knew what this process looked like before diving in, or had a mentor or tutor or family member who’d “done this” before, that’s great. If this post doesn’t resonate with you, that’s fine. This is about my ignorance and how I found "success" in both the admissions process and law school. In no small way, it's a function of my privilege that I landed at a prestigious place like Harvard Law School despite that ignorance. 
+
+That said, I grew up on a small family farm in rural Nebraska, went to high school with 46 of my closest friends, and had never met anyone that had gone anywhere but the two local law schools. I say that to detail the root (ha, farm joke) of my ignorance, but also in the hope that somebody reading this might have a similar background and feel validated in both their pursuit of law school and their confusion. My success had always stemmed (ha, farm joke) from having a community that supported me, and I sorely lacked that as I started to pursue law school.
 
 As I prepped for my first LSAT, I stumbled on the LSAT prep subreddit, and from there I found r/lawschooladmissions. At first, it was so overwhelming it almost made me give up the idea of going to law school altogether. The jargon, the timelines and deadlines, admissions strategies, everything was so foreign to me that I just about shut my laptop and didn’t look again, writing off the whole process. It took about a day of perusing the subreddit to see that not only did I not know a bunch of stuff about the process, but I didn’t even know what I didn’t know. 
 

@@ -67,8 +67,14 @@ Similar to a splitter, but with GPA and LSAT reversed: An applicant whose GPA is
 ### Ruby
 UChicago's coveted Rubenstein scholarship. Full tuition plus $20k annual stipend.
 
-### $$$$
-The amount of money that you received as a scholarship. Each $ is equivalent to 25% tuition (excludes [CoL](#col)). $$$ = 75% scholarship, $$$$ = full ride, $$$$+ = full ride + stipend.
+### Scholarships $$$$
+The amount of money that you received as a scholarship. Each $ is equivalent to 25% tuition (excludes [CoL](#col)). 
+
+* $ = 25% scholarship
+* $$ = 50% scholarship
+* $$$ = 75% scholarship
+* $$$$ = full ride
+* $$$$+ = full ride + stipend.
 
 ### Softs
 The counterpart to an app's hard [stats](#stats). The soft, unquantifiable part of your application that sets you apart from others. This includes life experiences, accomplishments, hardships overcome, and more. Technically includes everything in your app apart from your stats, but when used colloquially, it usually excludes personal statements and recommendation letters. E.g. "I had strong recs, a https://docs.lawschooldata.org/school-graphs#applicant-tableskiller PS, and T1 softs but I still got donged by YLS."

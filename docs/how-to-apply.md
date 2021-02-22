@@ -7,7 +7,7 @@ slug: /
 1. Take the LSAT.
     1. Retake as many times as necessary.
 1. Apply to law school.
-    1. Get all the [fee waivers](terminology#fee-waiver).
+    1. Get all the [fee waivers](/terminology#fee-waiver).
 1. Get accepted.
     1. Renegotiate your scholarship offers.
 1. Go to law school.

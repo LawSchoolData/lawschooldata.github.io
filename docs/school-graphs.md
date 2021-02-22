@@ -12,14 +12,14 @@ title: School graphs
 ![HLS graphs](/img/school-graphs.jpg)  
 *2019-2020 graph for HLS*
 
-The graphs show applicant results plotted against GPA and LSAT. The dotted lines on the graphs represent the [25/50/75th percentiles](terminology#255075th-percentile) reported by the school in their [ABA 509 report](terminology#aba-509-report) from the previous year.
+The graphs show applicant results plotted against GPA and LSAT. The dotted lines on the graphs represent the [25/50/75th percentiles](/terminology#255075th-percentile) reported by the school in their [ABA 509 report](terminology#aba-509-report) from the previous year.
 
 ## Applicant tables
 
 ![Fee waiver search](/img/fee-waiver-search.png)  
 *Searching for fee waivers in the applicant table*
 
-The applicant tables show in-depth information about every LSData user that applied to the school during the selected [cycle](terminology#cycle). This includes application type, GPA, LSAT, scholarship info, and decision dates.
+The applicant tables show in-depth information about every LSData user that applied to the school during the selected [cycle](/terminology#cycle). This includes application type, GPA, LSAT, scholarship info, and decision dates.
 
 
 ### Filters and details

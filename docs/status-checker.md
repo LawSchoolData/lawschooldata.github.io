@@ -32,4 +32,4 @@ LSData will only check your statuses when you tap the button, with a maximum of 
 
 ## Can schools see that LSData checked my status?
 
-TL;DR - Yes, it's possible but unlikely. For a longer answer, [see here](lsdata-faq#can-schools-see-that-lsdata-checked-my-status).
+TL;DR - Yes, it's possible but unlikely. For a longer answer, [see here](/lsdata-faq#can-schools-see-that-lsdata-checked-my-status).

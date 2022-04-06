@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>LSData Blog</title>
+        <link>https://docs.lawschooldata.org/blog</link>
+        <description>LSData Blog</description>
+        <lastBuildDate>Sun, 31 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Law School Admissions for One Dummy ]]></title>
+            <link>https://docs.lawschooldata.org/blog/admissions-for-one-dummy</link>
+            <guid>admissions-for-one-dummy</guid>
+            <pubDate>Sun, 31 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[I knew in the summer of the “law school admissions cycle” that I was going to “take the LSAT and go to law school.”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Advice Corner: Choosing a law school]]></title>
+            <link>https://docs.lawschooldata.org/blog/advice-corner-choosing-a-law-school</link>
+            <guid>advice-corner-choosing-a-law-school</guid>
+            <pubDate>Thu, 07 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Acceptances]]></description>
+        </item>
+        <item>
+            <title><![CDATA[LSData changelog]]></title>
+            <link>https://docs.lawschooldata.org/blog/big-update</link>
+            <guid>big-update</guid>
+            <pubDate>Mon, 04 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This post contains boring, unorganized changelogs with some rambling thoughts.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hello, world!]]></title>
+            <link>https://docs.lawschooldata.org/blog/hello</link>
+            <guid>hello</guid>
+            <pubDate>Sat, 02 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hi all! This blog will be the home of articles written by current law school students, applicants, and alumni.]]></description>
+        </item>
+    </channel>
+</rss>

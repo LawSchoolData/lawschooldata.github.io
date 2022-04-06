@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.lawschooldata.org/blog</id>
+    <title>LSData Blog</title>
+    <updated>2021-01-31T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.lawschooldata.org/blog"/>
+    <subtitle>LSData Blog</subtitle>
+    <icon>https://docs.lawschooldata.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Law School Admissions for One Dummy ]]></title>
+        <id>admissions-for-one-dummy</id>
+        <link href="https://docs.lawschooldata.org/blog/admissions-for-one-dummy"/>
+        <updated>2021-01-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I knew in the summer of the “law school admissions cycle” that I was going to “take the LSAT and go to law school.”]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advice Corner: Choosing a law school]]></title>
+        <id>advice-corner-choosing-a-law-school</id>
+        <link href="https://docs.lawschooldata.org/blog/advice-corner-choosing-a-law-school"/>
+        <updated>2021-01-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Acceptances]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LSData changelog]]></title>
+        <id>big-update</id>
+        <link href="https://docs.lawschooldata.org/blog/big-update"/>
+        <updated>2021-01-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post contains boring, unorganized changelogs with some rambling thoughts.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello, world!]]></title>
+        <id>hello</id>
+        <link href="https://docs.lawschooldata.org/blog/hello"/>
+        <updated>2021-01-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi all! This blog will be the home of articles written by current law school students, applicants, and alumni.]]></summary>
+    </entry>
+</feed>

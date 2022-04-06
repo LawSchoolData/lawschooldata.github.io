@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{80:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"advice-corner","name":"advice corner","count":2,"permalink":"/blog/tags/advice-corner"}')}}]);

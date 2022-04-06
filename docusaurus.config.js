@@ -1,7 +1,7 @@
 module.exports = {
   title: 'LSData',
   tagline: 'Making the law school application process suck a little bit less since 2019',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.lawschooldata.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -14,7 +14,7 @@ module.exports = {
       logo: {
         alt: 'LSData',
         src: 'img/logo.svg',
-        href: 'https://www.lawschooldata.org/',
+        href: '/',
         target: '_self',
       },
       items: [

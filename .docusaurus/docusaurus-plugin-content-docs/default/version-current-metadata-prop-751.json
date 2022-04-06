@@ -17,6 +17,11 @@
           },
           {
             "type": "link",
+            "label": "Common questions while applying",
+            "href": "/applying-faq"
+          },
+          {
+            "type": "link",
             "label": "Terminology and slang",
             "href": "/terminology"
           }
@@ -25,8 +30,13 @@
       {
         "collapsed": false,
         "type": "category",
-        "label": "LSData features",
+        "label": "LSData",
         "items": [
+          {
+            "type": "link",
+            "label": "Frequently Asked Questions",
+            "href": "/lsdata-faq"
+          },
           {
             "type": "link",
             "label": "Automated status checker",
@@ -46,11 +56,23 @@
             "type": "link",
             "label": "Chat",
             "href": "/chat"
+          }
+        ]
+      },
+      {
+        "collapsed": false,
+        "type": "category",
+        "label": "Loans & Finances",
+        "items": [
+          {
+            "type": "link",
+            "label": "Student loans",
+            "href": "/in-school-loans"
           },
           {
             "type": "link",
-            "label": "Frequently Asked Questions",
-            "href": "/lsdata-faq"
+            "label": "Loan refinance",
+            "href": "/loan-refinance"
           }
         ]
       }
@@ -58,8 +80,11 @@
   },
   "permalinkToSidebar": {
     "/applicant-search": "someSidebar",
+    "/applying-faq": "someSidebar",
     "/chat": "someSidebar",
     "/": "someSidebar",
+    "/in-school-loans": "someSidebar",
+    "/loan-refinance": "someSidebar",
     "/lsdata-faq": "someSidebar",
     "/school-graphs": "someSidebar",
     "/status-checker": "someSidebar",

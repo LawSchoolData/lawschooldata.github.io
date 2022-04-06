@@ -1,0 +1,20 @@
+{
+  "unversionedId": "in-school-loans",
+  "id": "in-school-loans",
+  "isDocsHomePage": false,
+  "title": "Student loans",
+  "description": "My school says I should just take out federal student loans. Why would I consider private loans?",
+  "source": "@site/docs/in-school-loans.md",
+  "slug": "/in-school-loans",
+  "permalink": "/in-school-loans",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Chat",
+    "permalink": "/chat"
+  },
+  "next": {
+    "title": "Loan refinance",
+    "permalink": "/loan-refinance"
+  }
+}

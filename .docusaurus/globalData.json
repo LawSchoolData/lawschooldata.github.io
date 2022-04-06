@@ -16,6 +16,11 @@
               "sidebar": "someSidebar"
             },
             {
+              "id": "applying-faq",
+              "path": "/applying-faq",
+              "sidebar": "someSidebar"
+            },
+            {
               "id": "chat",
               "path": "/chat",
               "sidebar": "someSidebar"
@@ -35,6 +40,16 @@
             {
               "id": "how-to-apply",
               "path": "/",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "in-school-loans",
+              "path": "/in-school-loans",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "loan-refinance",
+              "path": "/loan-refinance",
               "sidebar": "someSidebar"
             },
             {

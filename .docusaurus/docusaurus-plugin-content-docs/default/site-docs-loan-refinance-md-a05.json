@@ -1,0 +1,16 @@
+{
+  "unversionedId": "loan-refinance",
+  "id": "loan-refinance",
+  "isDocsHomePage": false,
+  "title": "Loan refinance",
+  "description": "I am considering refinancing my student loans. Should I?",
+  "source": "@site/docs/loan-refinance.md",
+  "slug": "/loan-refinance",
+  "permalink": "/loan-refinance",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Student loans",
+    "permalink": "/in-school-loans"
+  }
+}

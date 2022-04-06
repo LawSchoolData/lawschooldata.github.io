@@ -1,7 +1,7 @@
 export default {
   "title": "LSData",
   "tagline": "Making the law school application process suck a little bit less since 2019",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://docs.lawschooldata.org",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -14,7 +14,7 @@ export default {
       "logo": {
         "alt": "LSData",
         "src": "img/logo.svg",
-        "href": "https://www.lawschooldata.org/",
+        "href": "/",
         "target": "_self"
       },
       "items": [
@@ -34,7 +34,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2021 LSData.",
+      "copyright": "Copyright © 2022 LSData.",
       "links": []
     },
     "googleAnalytics": {

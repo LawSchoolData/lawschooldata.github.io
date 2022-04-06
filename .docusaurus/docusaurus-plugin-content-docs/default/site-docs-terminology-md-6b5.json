@@ -10,11 +10,11 @@
   "version": "current",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "How to go to law school",
-    "permalink": "/"
+    "title": "Common questions while applying",
+    "permalink": "/applying-faq"
   },
   "next": {
-    "title": "Automated status checker",
-    "permalink": "/status-checker"
+    "title": "Frequently Asked Questions",
+    "permalink": "/lsdata-faq"
   }
 }

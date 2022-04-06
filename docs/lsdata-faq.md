@@ -4,46 +4,32 @@ title: Frequently Asked Questions
 
 [Have an unanswered question?](https://forms.gle/7ML5398xeCyNJYvE8)
 
-## How much money is $$$, exactly? What does it mean when people say that they received a scholarship of $$?
-Each $ is equivalent to 25% tuition (excludes [CoL](/terminology#col)). 
-* $ = 25% scholarship
-* $$ = 50% scholarship
-* $$$ = 75% scholarship
-* $$$$ = full ride
-* $$$$+ = full ride + stipend ([Yes, these exist.](/terminology#ruby))
+## Why does LSData exist?
+Short answer: because applying to law school sucks. It's opaque and frustrating.
 
-## What do the tiers of softs mean?
-The soft tiers that LSData uses are based off of a [comment made by /u/whistleridge](https://www.reddit.com/r/lawschooladmissions/comments/660o4h/classifying_softs_and_clarifying_what_is_and_is) from reddit. 
-
-:::caution
-The soft tiers are **NOT** to be taken super seriously. Softs are inherently unquantifiable. The tiers are **very** rough guidelines for putting a number on something that really can't be quantified. Don't take the tiers too seriously when comparing yourself to other applicants on LSData. Holistically valuing softs is the admissions comittee's job.
-:::
+Long answer: Dinan went to a state school and saw gross disparities in access to information when he was applying to Harvard Law School. When working with Harvard undergrads, Jarron realized that even at a place like Harvard College, access to information isn’t a given. Together they realized that a single place to access information would improve everyone’s experience when applying to law school.
 
 ## Where do you get all this data from?
 Most data on LSData is user reported. Some information is pulled from [ABA 509 reports](/terminology#aba-509-report).
 
-#### Do you vet or verify the data?
+### Do you vet or verify the data?
 Generally speaking, no. The system runs on good faith and the belief that there is little incentive to lie when your data is semi-anonymized and aggregated. Obvious errors such as reporting decision dates in the future, or an acceptance to YLS with a 120 LSAT are sometimes fixed.
 
 ## Can schools see that LSData checked my status?
+Yes, but they don't care. Adcoms have better things to do than creep your refresh count.
 
-TL;DR - Yes, it's possible but unlikely.
+## Can you add ________ to LSData?
+We are constantly working to add new content, and you can request new capability here. You don’t even need a fully fledged idea, if something just annoys you about the law school process let us know and we will think about how to solve it for you and for future law schoolers. 
 
-**The longer answer**: Theoretically, yes. It is theoretically possible for schools to see how many times LSData checked your status, but it's unlikely that schools have the actual capability to do so, and even less likely that the admissions committee would know or care about your individual status checking behavior. 
+### Are there things you have no intention of adding regardless of how many people ask for it?
+Yes, but we will try to keep this updated with those things and our rationale.
 
-**In theory**: all websites can see the IP address of visitors. LSData uses the same IP every time it checks a status, so schools can theoretically identify what requests are coming from LSData.
+#### Things we don't plan to add:
+##### DMs
+There are currently no plans to add DMs to LSData. Reasons include: abuse concerns, lack of desire to turn LSData into a social network, technically boring to implement, limited utility over existing chatrooms. Our goal is for LSData to be a place that increases transparency around law school. DMs don’t really encourage that mission. 
 
-**Lack of capability**: Websites don't always log visitor IP addresses, and even it were logged, whatever status checker software LSAC provides for schools would need to make that log available to the end user through a pretty interface (e.g. for the adcom instead of some IT nerd that digs into the logs). It is possible that the interface shows the # of times someone has logged into the status checker. It is very unlikely that the interface has the ability to distinguish between where each status check comes from.
+## How does LSData make money?
+A few ways. First, we charge (or will once we launch) for access to our briefs. Second, most of the links to external sites are sponsored meaning that we get paid when you click on them and then buy/borrow/whatever, but we take pride in the fact that this never affects our rankings. 
 
-Adding in this capability is just a bunch of extra programming work (which costs $$$) for very little benefit. LSAC/schools have no rational reason to do this.
-
-**Lack of care**: Even if the school's status checker interface had the capability, adcoms are very busy people that work through hundreds or thousands of applications. Further, being an admissions officer is a 9 to 5 job, not a passion. I think it is very unlikely that someone on the admissions committee will be interested in a barely relevant statistic.
-
-## How do I delete my LSData account?
-Send an email to lawchecker0@gmail.com to request account deletion. There is no account delete button because the entire point of LSData is public data sharing, so data deletion is discouraged. If the lack of a user-side account delete truly vexes you, you can manually delete your statuses and clear your profile stats.
-
-## Can you add DMs to LSData?
-There are currently no plans to add DMs to LSData. Reasons include: abuse concerns, lack of desire to turn LSData into a social network, technically boring to implement, questionable utility over existing chatrooms.
-
-## Why am I not receiving my verification/password reset email?
-If you have a @yahoo.com or @aol.com email address, you aren't receiving LSData emails because their flawed spam detection has identified LSData as a spammer and is blocking all emails from LSData. Please send an email to lawchecker0@gmail.com to get your account manually verified.
+## You offer a lot of tools for free, do you sell my information
+No. You might be thinking about the quote 'If you are not paying for it, you're not the customer; you're the product being sold.' This is true when companies ‘have investors’ and ‘work to make money.’ Fortunately, neither of these things describes us. We are driven first by passion to serve law school applicants and students and if we can make money in the process awesome.

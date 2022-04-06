@@ -74,7 +74,7 @@ export default [
 },
 {
   path: '/',
-  component: ComponentCreator('/','296'),
+  component: ComponentCreator('/','4c2'),
   
   routes: [
 {
@@ -85,6 +85,11 @@ export default [
 {
   path: '/applicant-search',
   component: ComponentCreator('/applicant-search','d54'),
+  exact: true,
+},
+{
+  path: '/applying-faq',
+  component: ComponentCreator('/applying-faq','133'),
   exact: true,
 },
 {
@@ -105,6 +110,16 @@ export default [
 {
   path: '/doc3',
   component: ComponentCreator('/doc3','5d3'),
+  exact: true,
+},
+{
+  path: '/in-school-loans',
+  component: ComponentCreator('/in-school-loans','edf'),
+  exact: true,
+},
+{
+  path: '/loan-refinance',
+  component: ComponentCreator('/loan-refinance','3f0'),
   exact: true,
 },
 {

@@ -10,7 +10,11 @@
   "version": "current",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "Chat",
-    "permalink": "/chat"
+    "title": "Terminology and slang",
+    "permalink": "/terminology"
+  },
+  "next": {
+    "title": "Automated status checker",
+    "permalink": "/status-checker"
   }
 }
